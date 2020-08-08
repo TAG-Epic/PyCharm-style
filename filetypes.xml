@@ -11,6 +11,7 @@
       <mapping pattern=".env" type="PLAIN_TEXT" />
       <mapping pattern=".example-env" type="PLAIN_TEXT" />
       <mapping ext="env" type="PLAIN_TEXT" />
+      <mapping ext="ini" type="PLAIN_TEXT" />
       <mapping ext="rdb" type="PLAIN_TEXT" />
       <mapping ext="db" type="SQL" />
     </extensionMap>
