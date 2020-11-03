@@ -7,8 +7,8 @@
       <mapping pattern="api-dockerfile" type="Dockerfile" />
       <mapping pattern="bot-dockerfile" type="Dockerfile" />
       <mapping ext="docker" type="Dockerfile" />
-      <mapping pattern=".example-env" type="PLAIN_TEXT" />
       <mapping pattern=".env.example" type="PLAIN_TEXT" />
+      <mapping pattern=".example-env" type="PLAIN_TEXT" />
       <mapping pattern=".env" type="PLAIN_TEXT" />
       <mapping ext="env" type="PLAIN_TEXT" />
       <mapping ext="in" type="PLAIN_TEXT" />
